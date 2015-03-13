@@ -1,0 +1,1 @@
+An attempt to create a Police Quest-style adventure game in using PHP.
